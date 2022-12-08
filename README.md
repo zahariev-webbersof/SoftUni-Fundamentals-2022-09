@@ -3,7 +3,7 @@ In this repository there are solutions to tasks from the programming Fundamental
 
 Lecturer of course - [Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202/) 
 
-https://softuni.bg/trainings/3733/programming-fundamentals-with-python-may-2022
+https://softuni.bg/trainings/3840/programming-fundamentals-with-python-september-2022
 
 Online judge system - https://judge.softuni.org/
 
